@@ -4,6 +4,7 @@ Create a MATLAB terminal in Notepad++ by NppExec
 ## Usage
 - Install NppExec in Plugin Manager.
 - Compile and Execute using NppExec(F6)
+- Before using, open matlab in server: matlab -automation
 - Use it below your editor!
 - input !! (which is no use in original matlab) to exit.
 ## TODO list
