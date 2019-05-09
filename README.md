@@ -7,6 +7,6 @@ Create a MATLAB terminal in Notepad++ by NppExec
 - Use it below your editor!
 - input !! (which is no use in original matlab) to exit.
 ## TODO list
-- Support for/while/if/switch/try-end Input 
-- Support Multi-Line input from clipboard
+- Fix No Output when using long-cmd.
+- Support Multi-Line input from clipboard (maybe unable)
 - Support Ctrl+C to Abort Running Command.
